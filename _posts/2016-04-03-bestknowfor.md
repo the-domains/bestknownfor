@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T19:00:36.919Z'
-dateModified: '2016-04-03T19:00:01.193Z'
-title: BestKnowFor
+datePublished: '2016-04-03T23:47:27.391Z'
+dateModified: '2016-04-03T19:31:11.795Z'
+title: bestknownfor
 author: []
+sourcePath: _posts/2016-04-03-bestknowfor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-bestknowfor.md
-published: true
-url: bestknowfor/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/683f7c75-e15b-4acd-be00-b544a9acf9cd.jpg)
